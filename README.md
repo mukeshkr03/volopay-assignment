@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+cards tabs.
 
-## Available Scripts
+## Technology and script to create
 
-In the project directory, you can run:
+This project was made with [Create React App] in React.js Library.
 
-### `npm start`
+## Script to run
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the project directory, you can run: `yarn start/npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will load with some warnings in directory(Ignore) and gets re-load if made edits.
 
-### `npm test`
+## Deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Application was deployed with Netlify.
 
-### `npm run build`
+1. Log into the Netlify console at https://app.netlify.com using the DataMade Netlify account.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. In the console, choose New site from Git to configure your app.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Select the GitHub provider. Netlify will ask you to authenticate with GitHub. Authenticate with Netlify, and choose the repo you want to integrate from the dropdown menu.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. For the Branch to deploy option, select deploy. If you don't have a deploy branch yet, create one off of main so that you can verify the Netlify deployment.
 
-### `npm run eject`
+5. For the Build command option, input command (npm build) to generate a build of the site.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+6. For the Publish directory option, input the directory that houses your built assets. For Gatsby sites, this directory is typically called public/.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+7. Select Deploy site and view your deployed site at the link Netlify provides.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Technologies used in creation of this project :
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### React.js
+#### JavaScript 
+#### Material UI 
+#### CSS 
+#### Local Storage for data storage 
